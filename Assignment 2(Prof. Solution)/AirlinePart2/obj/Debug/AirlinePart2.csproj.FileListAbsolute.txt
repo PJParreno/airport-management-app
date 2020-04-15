@@ -1,0 +1,7 @@
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/bin/Debug/AirlinePart2.exe.config
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/bin/Debug/AirlinePart2.exe
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/bin/Debug/AirlinePart2.pdb
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/obj/Debug/AirlinePart2.csprojAssemblyReference.cache
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/obj/Debug/AirlinePart2.csproj.CoreCompileInputs.cache
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/obj/Debug/AirlinePart2.exe
+/Users/School.Account/Documents/Semster 3/Adv. Obj Oriented - Comp 2129/Assignments/Assignment 2/Assignment 2(Prof. Solution)/AirlinePart2/obj/Debug/AirlinePart2.pdb

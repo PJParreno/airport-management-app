@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{606BE535-F119-457A-B6B7-A2018FCBF22E}|Default">
+  <MonoDevelop.Ide.ItemProperties.AirlinePart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirlinePart2/CustomerManager.cs">
+    <Files>
+      <File FileName="AirlinePart2/Program.cs" Line="1" Column="1" />
+      <File FileName="AirlinePart2/FlightManager.cs" Line="1" Column="1" />
+      <File FileName="AirlinePart2/CustomerManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
